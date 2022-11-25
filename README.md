@@ -21,4 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imedrano-stack&show_icons=true&locale=en&layout=compact" alt="imedrano-stack" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imedrano-stack&show_icons=true&locale=en" alt="imedrano-stack" /></p>
+
